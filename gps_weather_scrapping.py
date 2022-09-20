@@ -1,5 +1,6 @@
 import requests as r
 import json
+import config
 import pandas as pd
 
 # 34 best cities to visit in France
