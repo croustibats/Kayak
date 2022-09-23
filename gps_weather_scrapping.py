@@ -60,7 +60,7 @@ for i, city in enumerate(city_list):
 # get weather forecast within the next 7 days for each city
 
 base_endpoint = 'https://api.openweathermap.org/data/2.5/onecall?'
-KEY = '83d608199d5e9f779357657035773c8b'
+KEY = config.api_key
 
 
 def cleaning_dict(forecast_dict):
