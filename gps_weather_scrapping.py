@@ -5,7 +5,8 @@ import pandas as pd
 
 # 34 best cities to visit in France
 
-city_list = ["Mont Saint Michel",
+city_list = [
+"Mont Saint Michel",
 "St Malo",
 "Bayeux",
 "Le Havre",
