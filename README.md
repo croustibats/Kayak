@@ -1,3 +1,10 @@
+My email :👉 baptiste.cournault@gmail.com 👈
+
+Video link : 👉 https://share.vidyard.com/watch/esjWMgHC85fyw38em735LQ? 👈
+
+
+
+
 Plan your trip with Kayak
 Company's description 📇
 Kayak is a travel search engine that helps user plan their next trip at the best price.
