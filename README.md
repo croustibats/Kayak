@@ -101,5 +101,3 @@ Once you uploaded your data onto S3, it will be better for the next data analysi
 
 My email :👉 baptiste.cournault@gmail.com 👈
 
-Video link : 👉 https://share.vidyard.com/watch/esjWMgHC85fyw38em735LQ? 👈
-
